@@ -1,9 +1,9 @@
 [submodule "packages/front"]
-	path = packages/front
+	path = front
 	url = https://github.com/nreyesh/front.git
 [submodule "packages/infra"]
-	path = packages/infra
+	path = infra
 	url = https://github.com/nreyesh/infra.git
 [submodule "packages/backend"]
-	path = packages/backend
+	path = backend
 	url = https://github.com/nreyesh/backend.git
